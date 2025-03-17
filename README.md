@@ -7,4 +7,4 @@ USE CHATGPT FOR PROMPT: https://chatgpt.com/
 
 CLAUDE.AI FOR IMPROVING THE IMAGE PROMPT: https://claude.ai/
 
-AND COPILOT FOR IMAGE GENRATION: https://copilot.microsoft.com/chats/CrM2sJqMKcyQWxTCKBbuy
+AND COPILOT FOR IMAGE GENERATION: https://copilot.microsoft.com/chats/CrM2sJqMKcyQWxTCKBbuy
