@@ -5,4 +5,4 @@ Paste the above mentioned prompt from the document according to your requirement
 
 USE CHATGPT FOR PROMPT &  IMAGE GENERATION: https://chatgpt.com/
 
-AND COPILOT IMPROVING THE IMAGE PROMPT: https://copilot.microsoft.com/chats/CrM2sJqMKcyQWxTCKBbuy
+AND COPILOT FOR IMPROVING THE IMAGE PROMPT: https://copilot.microsoft.com/chats/CrM2sJqMKcyQWxTCKBbuy
