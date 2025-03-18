@@ -3,8 +3,6 @@ A MARKETING VIDEO WITH AI-GENERATED IMAGES AND TEXT
 
 Paste the above mentioned prompt from the document according to your requirements
 
-USE CHATGPT FOR PROMPT: https://chatgpt.com/
+USE CHATGPT FOR PROMPT &  IMAGE GENERATION: https://chatgpt.com/
 
-CLAUDE.AI FOR IMPROVING THE IMAGE PROMPT: https://claude.ai/
-
-AND COPILOT FOR IMAGE GENERATION: https://copilot.microsoft.com/chats/CrM2sJqMKcyQWxTCKBbuy
+AND COPILOT IMPROVING THE IMAGE PROMPT: https://copilot.microsoft.com/chats/CrM2sJqMKcyQWxTCKBbuy
